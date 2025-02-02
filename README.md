@@ -1,1 +1,1 @@
-# Splitwise-Bill
+Splitwise - Restaurant Billing System
