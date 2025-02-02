@@ -24,7 +24,7 @@ Clone the repository:
 sh
 Copy
 Edit
-git clone https://github.com/taimoor-hashmi/splitwise-restaurant-billing.git
+git clone (https://github.com/Taimoor-hashmi/Splitwise-Bill.git)
 Compile the C++ code using your preferred compiler (e.g., g++, Code::Blocks, Visual Studio).
 If you're using g++, you can run:
 sh
